@@ -1,0 +1,72 @@
+/* Wyatt Parkisnon 4/15/2022 */
+
+.bold {
+    font-weight: bold;
+}
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.headeranchor {
+    color-adjust: #fff;
+    text-decoration: none;
+}
+.myitalics {
+    font-style: italic;
+}
+a:hover {
+    font-weight: bold;
+}
+
+.tableaubackground {
+        background-color: rgb(249, 88, 88);
+}
+
+.theader {
+        background-color: lightgrey;
+        border-radius: 15px 15px 10px 10px;
+        text-align: center;
+        padding: 20px;
+        text-decoration-color: white;
+}
+.th1 {
+    text-decoration-color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tsideheader {
+    float: right;
+}
+.tfooter {
+    bottom: 3px;
+    height: 75px;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+    padding: 3px;
+    border-radius: 15px;
+}
+.tfooteranchor {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.tcaption {
+    left: 50px;
+    right: 50px;
+    background-color: lightgrey;
+    height: 30px;
+    border: 2px;
+    border-color: black;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.tableauPlaceholder {
+    border-radius: 10px;
+    align-items: center;
+}
